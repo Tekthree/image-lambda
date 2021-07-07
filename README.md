@@ -22,8 +22,8 @@
 
 
 ## Documentation
-### a description of how to use your lambda.
+### A description of how to use your lambda.
 
-### a description of any issues you encountered during deployment of this lambda.
+### A description of any issues you encountered during deployment of this lambda.
 
-### a link to your images.json file
+### A link to your images.json file
