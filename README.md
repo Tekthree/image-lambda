@@ -23,6 +23,7 @@
 
 ## Documentation
 ### A description of how to use your lambda.
+- Upload an image and the image info will be added to my list.
 
 ### A description of any issues you encountered during deployment of this lambda.
 
