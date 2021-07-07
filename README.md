@@ -4,7 +4,7 @@
 # Authors - Tek Jones
 ---
 
-## Deployment task 1 - 
+## Deployment - 
 
 ---
 
@@ -28,3 +28,14 @@
 ### A description of any issues you encountered during deployment of this lambda.
 
 ### A link to your images.json file
+https://imageslab17.s3.us-west-2.amazonaws.com/images.json
+
+### My process 
+- Created bucket
+- add code to make bucket publicly accessible
+- create lambda
+- create test (named upload)
+- add event trigger in s3
+- add the arn from lambda to connect the trigger
+- upload image and check in lambda monitor/logs in CloudWatch
+- write code to Upload an image and the image info will be added to my list on json
