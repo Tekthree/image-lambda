@@ -42,3 +42,4 @@ https://imageslab17.s3.us-west-2.amazonaws.com/images.json
 
 
 almost got it!
+troubleshooting in lambda is hard
