@@ -39,3 +39,7 @@ https://imageslab17.s3.us-west-2.amazonaws.com/images.json
 - add the arn from lambda to connect the trigger
 - upload image and check in lambda monitor/logs in CloudWatch
 - write code to Upload an image and the image info will be added to my list on json
+
+
+almost got it!
+troubleshooting in lambda is hard
